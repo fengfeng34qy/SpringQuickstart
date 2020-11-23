@@ -3,5 +3,5 @@
 mvn spring-boot:run
 ```
 
-[https://spring.io/quickstart](https://spring.io/quickstart)
+[Spring快速入门指南](https://spring.io/quickstart)
 
